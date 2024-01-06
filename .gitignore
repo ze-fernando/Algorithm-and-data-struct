@@ -1,0 +1,27 @@
+# Arquivos de configuração de IDEs
+.vscode/
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.cproj
+*.sln
+*.VC.db
+
+# Dependências de construção e diretórios de saída
+/build/
+/bin/
+/lib/
+
+# Arquivos temporários
+*.log
+*.swp
+
+# Arquivos de backup
+*~
+
+# Documentação gerada
+/doc/
+/html/
+/latex/
+/man/
