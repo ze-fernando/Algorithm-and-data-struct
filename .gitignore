@@ -25,3 +25,9 @@
 /html/
 /latex/
 /man/
+
+
+# Builds
+
+*.exe
+*.out
