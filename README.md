@@ -3,7 +3,7 @@
     - [Bubble Sort](/sort/main.c)
 2. Search
     - [Linear Search](/linearSearch/main.cpp)
-    - [Index Linear Search](/indexLinearSearch/main.cpp)
+    - [Index Linear Search](/indexLinearSearch/main.c)
     - [Binary Search](/linearSearch/main.cpp)
 
 
