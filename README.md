@@ -9,6 +9,7 @@
 
 ## Mathematical theorems
 1. [Leibniz](/leibniz/main.c)
+2. [Prime Number](/primeNumbers/main.c)
 
 ## Cryptogtaphy
 1. [Cesar Cipher](/cesarCipher/main.c)
