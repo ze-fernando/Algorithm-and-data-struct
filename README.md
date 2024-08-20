@@ -1,6 +1,7 @@
 ## Algorithms
 1. Sort
-    - [Bubble Sort](/sort/main.c)
+    - [Bubble Sort](/buubleSort/main.c)
+    - [Selection Sort](/selectionSort/main.cpp)
 2. Search
     - [Linear Search](/linearSearch/main.cpp)
     - [Index Linear Search](/indexLinearSearch/main.c)
