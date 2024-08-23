@@ -1,17 +1,18 @@
 ## Algorithms
 1. Sort
-    - [Bubble Sort](/buubleSort/main.c)
-    - [Selection Sort](/selectionSort/main.cpp)
+    - [Bubble sort](/buubleSort/main.c)
+    - [Selection sort](/selectionSort/main.cpp)
 2. Search
-    - [Linear Search](/linearSearch/main.cpp)
-    - [Index Linear Search](/indexLinearSearch/main.c)
-    - [Binary Search](/linearSearch/main.cpp)
+    - [Linear search](/linearSearch/main.cpp)
+    - [Index linear Search](/indexLinearSearch/main.c)
+    - [Binary search](/linearSearch/main.cpp)
 
 
 ## Mathematical theorems
 1. [Leibniz](/leibniz/main.c)
-2. [Prime Number](/primeNumbers/main.c)
+2. [Prime number](/primeNumbers/main.c)
 3. [Fibonacci](/fibonacci/main.c)
+4. [Pitagoras theorem](/pitagorasTheorem/main.c)
 
 ## Cryptogtaphy
-1. [Cesar Cipher](/cesarCipher/main.c)
+1. [Cesar cipher](/cesarCipher/main.c)
